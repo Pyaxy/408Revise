@@ -1,2 +1,2 @@
 # 408Revise
-Record the relevant code when I revise 408.
+本仓库记录了408数据结构中考点中具体数据结构与算法的基本实现。
